@@ -1,0 +1,16 @@
+{
+  "name": "Aakash Yadav",
+  "bio": "Frontend Web Developer | Passionate about UI/UX and building clean web experiences.",
+  "skills": ["HTML", "CSS", "JavaScript", "React"],
+  "projects": [
+    {
+      "title": "Portfolio Website",
+      "description": "A personal website showcasing my resume and projects.",
+      "link": "https://theakaashyadav.s3.us-east-1.amazonaws.com/index.html"
+    }
+  ],
+  "contact": {
+    "email": "example@example.com",
+    "linkedin": "https://linkedin.com/in/yourprofile"
+  }
+}
